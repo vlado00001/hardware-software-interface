@@ -1,4 +1,4 @@
----
+    ---
 parent: Lab 1 - Number Representation
 nav_order: 4
 ---
